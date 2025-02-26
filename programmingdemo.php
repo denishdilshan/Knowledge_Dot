@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Unique Developer</title>
+	<title>Knowledge Dot</title>
 	<!----css file link-->
 	<link rel="stylesheet" type="text/css" href="css/programming.css">
 
@@ -117,7 +117,7 @@ ul, ol {
 
 				</button>
 
-				<h1 style="color: white;margin-top: 10px;" id="myhead">Unique Developer</h1>
+				<h1 style="color: white;margin-top: 10px;" id="myhead">Knowledge Dot</h1>
 			</div>
 			<div class="collapse navbar-collapse" id="navi">
                  <!------Navigation menus starts---->

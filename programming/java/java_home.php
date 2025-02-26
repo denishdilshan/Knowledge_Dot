@@ -35,7 +35,7 @@
 		#sidebarleftmenu
 		{
 				background: #373b44; /* fallback for old browsers */
-  				background: -webkit-linear-gradient(to right, #373b44, #4286f4); /* Chrome 10-25, Safari 5.1-6 */
+  				background: -webkit-linear-gradient(to right,rgb(55, 68, 57), #4286f4); /* Chrome 10-25, Safari 5.1-6 */
   				background: linear-gradient(to right, #373b44, #4286f4);
 		}
 
